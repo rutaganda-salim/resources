@@ -1,5 +1,4 @@
 "use client";
-import { link } from "fs";
 import React, { useState, useMemo } from "react";
 
 const resources = [
